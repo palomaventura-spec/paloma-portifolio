@@ -161,7 +161,7 @@ function App() {
 
             <a
               className="btn"
-              href="https://www.linkedin.com/in/palomaguiar100"
+              href="https://www.linkedin.com/in/palomadaguiar100"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -310,7 +310,7 @@ function App() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/palomaguiar100"
+            href="https://www.linkedin.com/in/palomadaguiar100"
             target="_blank"
             rel="noopener noreferrer"
           >
