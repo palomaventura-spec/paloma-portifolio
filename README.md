@@ -25,3 +25,4 @@ git push -u origin main
 3. Importe o repositório do GitHub
 4. Framework: Vite
 5. Deploy
+"# paloma-portifolio" 
