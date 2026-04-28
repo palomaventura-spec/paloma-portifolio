@@ -1,28 +1,32 @@
-# Paloma Aguiar Portfolio
+# 🚀 Paloma Aguiar – Portfolio Landing Page
 
-## Rodar no VS Code
+Professional portfolio showcasing AI, automation, frontend development, and legal-tech expertise.
 
-```bash
-npm install
-npm run dev
-```
+## 🌍 About
 
-## Subir no GitHub
+Luso-Brazilian professional with 15+ years of experience in Portuguese citizenship processes, now building AI-powered solutions, automation systems, and modern web interfaces.
 
-```bash
-git init
-git add .
-git commit -m "portfolio landing page"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/paloma-portfolio.git
-git push -u origin main
-```
+## 💡 Main Project
 
-## Deploy na Vercel
+**LexPortugal AI**  
+AI-powered platform for document analysis using OCR and artificial intelligence, designed to support Portuguese citizenship processes.
 
-1. Acesse vercel.com
-2. Add New Project
-3. Importe o repositório do GitHub
-4. Framework: Vite
-5. Deploy
-"# paloma-portifolio" 
+## 🛠️ Tech Stack
+
+- React / Vite
+- JavaScript
+- CSS
+- APIs & Automation
+- Python (FastAPI)
+- n8n
+
+## 📩 Contact
+
+- Email: palomaventura@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/palomaguiar100  
+
+---
+
+## ⚡ Status
+
+🚧 In development – continuously improving
