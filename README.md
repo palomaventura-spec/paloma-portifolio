@@ -1,32 +1,89 @@
-# 🚀 Paloma Aguiar – Portfolio Landing Page
+# 🚀 Paloma Aguiar – Frontend & AI Portfolio
 
-Professional portfolio showcasing AI, automation, frontend development, and legal-tech expertise.
+Frontend Developer • UI/UX • AI Product Builder
 
-## 🌍 About
+Professional portfolio focused on modern frontend development, AI-powered platforms, automation systems, and digital product experiences.
 
-Luso-Brazilian professional with 15+ years of experience in Portuguese citizenship processes, now building AI-powered solutions, automation systems, and modern web interfaces.
+---
 
-## 💡 Main Project
+## 🌍 About Me
 
-**LexPortugal AI**  
-AI-powered platform for document analysis using OCR and artificial intelligence, designed to support Portuguese citizenship processes.
+Luso-Brazilian professional transitioning into frontend engineering and AI-driven digital solutions, combining strong experience in design, user experience, legal-tech, automation, and product strategy.
+
+Currently focused on building scalable interfaces, AI-powered systems, and modern web applications using React, Next.js, and automation tools.
+
+---
+
+## 💡 Featured Projects
+
+### ⚖️ LexPortugal AI
+AI-powered legal-tech platform designed to support Portuguese citizenship processes through intelligent document analysis, OCR, automation, and modern frontend interfaces.
+
+### ⚽ Scout AI Platform
+Sports analytics platform using artificial intelligence to analyze player movement, performance metrics, and tactical insights through interactive dashboards.
+
+### 🎭 SambaHub Platform
+Digital carnival experience platform featuring interactive content, event information, visual systems, and responsive UI design.
+
+### 🏦 Banking UX Research Project
+User experience and interface research project focused on digital banking ecosystems, customer journeys, and omnichannel experiences.
+
+---
 
 ## 🛠️ Tech Stack
 
-- React / Vite
+### Frontend
+- React
+- Next.js
 - JavaScript
-- CSS
-- APIs & Automation
-- Python (FastAPI)
-- n8n
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Design
+
+### UI/UX & Design
+- Figma
+- Canva Pro
+- Adobe Photoshop
+- User Experience Design
+- Interface Prototyping
+
+### Backend & Automation
+- Python
+- FastAPI
+- APIs & Integrations
+- n8n Automation
+- AI Workflows
+
+### Tools
+- GitHub
+- Vercel
+- VS Code
+
+---
+
+## 🎯 Current Focus
+
+- Frontend Engineering
+- AI-powered Products
+- UI/UX Systems
+- SaaS Interfaces
+- Automation Platforms
+- Legal-Tech Solutions
+- Remote International Opportunities
+
+---
 
 ## 📩 Contact
 
-- Email: palomaventura@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/palomaguiar100  
+- 📧 Email: palomaventura@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/palomaguiar100
+- 🌐 Portfolio: Coming Soon on Vercel
 
 ---
 
 ## ⚡ Status
 
-🚧 In development – continuously improving
+🚧 Active portfolio under continuous development.
+
+Currently building real-world projects focused on frontend architecture, AI integration, automation systems, and modern digital experiences.
